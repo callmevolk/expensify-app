@@ -19,4 +19,6 @@ const jsx = (
   </Provider>
 );
 
+console.log('it works!');
+
 ReactDOM.render(jsx, document.getElementById('app'));
